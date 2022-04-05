@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "C:\\Users\\Administrator\\Desktop\\Source\\js\\webAPI"
+		},
+		{
+			"path": "c:\\Users\\Administrator\\Desktop\\Source"
+		},
+		{
+			"name": "vscode",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "QAQ"
+	}
+}
